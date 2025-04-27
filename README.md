@@ -1,3 +1,22 @@
+# Project Title
+
+**React Pizza**
+
+## Introduction
+
+**React Pizza** is my first React project, created as a practical exercise to improve my skills and grow as a developer. It functions as a simple restaurant-style meal ordering site, emphasizing functionality over design.
+
+## Key Focus
+
+- **No Responsive Design:** The primary goal of this project was to focus on React development, so advanced responsiveness is not included.
+- **Simplicity in Design:** The user interface has been intentionally kept clean and straightforward to ensure usability.
+
+## Author
+
+Modified by [Nijat Guliyev](https://www.linkedin.com/in/nijat-guliyev-1949a4294/). Check out more projects on my [GitHub profile](https://github.com/Nijat-Guliyev).
+
+This is a modified version of the original work by [Jonas Schmedtmann](https://jonas.io/) / [X profile](https://x.com/jonasschmedtman). While the design remains the same, modifications have been made to the code by [Nijat](https://www.linkedin.com/in/nijat-guliyev-1949a4294/). Feel free to check out my [GitHub profile](https://github.com/Nijat-Guliyev) for more projects!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
